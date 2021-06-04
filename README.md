@@ -32,6 +32,8 @@
 - [x] Windows boot from OpenCore
 - [x] Thunderbot 3
 - [x] Brightness keys e sound keys
+- [x] Touch Screen
+- [x] Trackpad/Gesture Macos
 - [ ] Internal Microphone and Mic Combo Jack 
 
 ### Special Config:
