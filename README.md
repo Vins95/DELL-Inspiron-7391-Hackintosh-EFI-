@@ -21,6 +21,9 @@
 | BootLoader       | OpenCore 0.6.9                     
 
 
+![infomac](./Screenshot/infomac.png)
+
+
 ### What works and What doesn't or WIP:
 
 - [x] Intel UHD 620 iGPU + HDMI AUDIO/HDMI VIDEO
