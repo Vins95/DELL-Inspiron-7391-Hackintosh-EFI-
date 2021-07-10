@@ -15,7 +15,7 @@
 | iGPU             | Intel® UHD Graphics 620         |    
 | Audio            | Realtek ALC295             |
 | Ram              | 16 Gb ddr4 2133 Mhz     |            |
-| Wifi             | Intel AC 9462          |
+| Wifi             | DW1560         |
 | NVMe             | WD 512 GB                   
 | SmBios           | MacBook Pro 13 16,3          |     
 | BootLoader       | OpenCore 0.6.9                     
@@ -38,6 +38,16 @@
 - [x] Touch Screen
 - [x] Trackpad/Gesture Macos
 - [ ] Internal Microphone and Mic Combo Jack 
+
+
+## Peripherals & TouchPad Setting & Benchmarks
+
+![infodp1](./Screenshot/DPCI1.png)
+![infodp2](./Screenshot/DPCI2.png)
+![touchpad1](./Screenshot/TRACK1.png)
+![touchpad2](./Screenshot/TRACK2.png)
+![touchpad3](./Screenshot/TRACK3.png)
+
 
 ### Special Config:
 
