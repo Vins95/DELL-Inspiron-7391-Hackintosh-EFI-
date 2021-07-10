@@ -18,7 +18,7 @@
 | Wifi             | DW1560         |
 | NVMe             | WD 512 GB                   
 | SmBios           | MacBook Pro 13 16,3          |     
-| BootLoader       | OpenCore 0.6.9                     
+| BootLoader       | OpenCore 0.7.0                    
 
 
 ![infomac](./Screenshot/infomac.png)
@@ -40,7 +40,7 @@
 - [ ] Internal Microphone and Mic Combo Jack 
 
 
-## Peripherals & TouchPad Setting & Benchmarks
+## Peripherals & TouchPad Setting 
 
 ![infodp1](./Screenshot/DPCI1.png)
 ![infodp2](./Screenshot/DPCI2.png)
