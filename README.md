@@ -25,7 +25,8 @@
 
 - [x] Intel Graphics UHD iGPU 
 - [x] Intel Graphics UHD iGPU HDMI Output
-- [x] IIntel Graphics UHD iGPU Type-C to HDMI Output
+- [x] IIntel Graphics UHD iGPU Type-C/Thunderbolt 3 to HDMI Output
+- [x] JHL7540 Thunderbolt 3 Bridge [Titan Ridge 2C 2018]
 - [x] ALC295 Internal Speakers
 - [ ] ALC295 Internal microphone (Digital Mic Intel SST not compatible)
 - [x] USB MINI Dongle Microphones  *
