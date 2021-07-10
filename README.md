@@ -72,7 +72,7 @@
 * Power On Lid Open
 * Enable UEFI Network Stack
 * Sign Of Life : Early Logo Display / Early keyboard backlight
-* cfg lock and DVMT: DO AT YOUR OWN RISK!!! It may brick your laptop.
+
 
 
 
