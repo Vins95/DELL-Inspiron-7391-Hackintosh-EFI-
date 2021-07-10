@@ -5,8 +5,7 @@
 [![](https://img.shields.io/badge/PayPal-HackintoshLifeIT-informational?style=flat&logo=paypal&logoColor=white&color=00B2EE)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RWBVVWL8H9JC2&source=url)
 
 
-![descrizione](https://mrlaptop.pk/wp-content/uploads/2020/07/Dell-Inspiron-7391-1.jpg)
-
+![descrizione](./Screenshot/DELL-7391.jpg)
 ### Computer Spec:
 
 | Component        | Brank                              |
