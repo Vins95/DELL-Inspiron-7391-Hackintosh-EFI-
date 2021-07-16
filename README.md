@@ -17,7 +17,7 @@
 | Wifi             | DW1560         |
 | NVMe             | WD 512 GB                   
 | SmBios           | MacBook Pro 13 16,3          |     
-| BootLoader       | OpenCore 0.7.0                    
+| BootLoader       | OpenCore 0.7.1                    
 
 
 ![infomac](./Screenshot/infomac.png)
